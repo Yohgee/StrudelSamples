@@ -1,6 +1,7 @@
 {
-  "_base": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/master/",
+  "_base": "https://raw.githubusercontent.com/Yohgee/StrudelSamples/main/",
   "halo": "halo.wav",
   "crt": "crt.wav",
-  "pss": "pss.wav"
+  "pss": "pss.wav",
+  "ahh": "ahh.wav"
 }
